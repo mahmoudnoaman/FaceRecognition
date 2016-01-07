@@ -8,6 +8,7 @@ namespace FaceRecognition
 {
     public class Activation
     {
+		//
         public static double Activate(double net)
         {
             double Result;
